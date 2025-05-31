@@ -86,6 +86,10 @@
 
 ###
 
+<img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV1cXh1MWJjYWJ3bzZ3bWZlYTRvczZ6dmkzbTh4aG1pODhndzB6MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif"  />
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asarkar14/Asarkar14/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asarkar14/Asarkar14/output/github-snake.svg" />
