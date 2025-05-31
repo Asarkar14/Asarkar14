@@ -86,6 +86,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Asarkar14/Asarkar14/output/snake.svg" alt="Snake animation" />
-
-###
